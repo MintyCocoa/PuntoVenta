@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835248889829",
+    "project_id": "puntoventa-dee8f",
+    "storage_bucket": "puntoventa-dee8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835248889829:android:917e4b761455455200990c",
+        "android_client_info": {
+          "package_name": "com.proyecto.puntoventa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhu3FOpFE0Q2VFTgA2rCugKyb7BVhGBqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
